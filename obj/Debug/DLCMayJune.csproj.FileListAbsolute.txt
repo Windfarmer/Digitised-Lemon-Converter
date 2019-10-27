@@ -1,0 +1,14 @@
+c:\users\wyatt\source\repos\DLCMayJune\DLCMayJune\bin\Debug\DLCMayJune.exe.config
+c:\users\wyatt\source\repos\DLCMayJune\DLCMayJune\bin\Debug\DLCMayJune.exe
+c:\users\wyatt\source\repos\DLCMayJune\DLCMayJune\bin\Debug\DLCMayJune.pdb
+c:\users\wyatt\source\repos\DLCMayJune\DLCMayJune\obj\Debug\DLCMayJune.csprojResolveAssemblyReference.cache
+c:\users\wyatt\source\repos\DLCMayJune\DLCMayJune\obj\Debug\DLCMayJune.Properties.Resources.resources
+c:\users\wyatt\source\repos\DLCMayJune\DLCMayJune\obj\Debug\DLCMayJune.csproj.GenerateResource.Cache
+c:\users\wyatt\source\repos\DLCMayJune\DLCMayJune\obj\Debug\DLCMayJune.csproj.CoreCompileInputs.cache
+c:\users\wyatt\source\repos\DLCMayJune\DLCMayJune\obj\Debug\DLCMayJune.exe
+c:\users\wyatt\source\repos\DLCMayJune\DLCMayJune\obj\Debug\DLCMayJune.pdb
+c:\users\wyatt\source\repos\DLCMayJune\DLCMayJune\obj\Debug\DLCMayJune.formDLC.resources
+c:\users\wyatt\source\repos\DLCMayJune\DLCMayJune\obj\Debug\DLCMayJune.formAbout.resources
+C:\Users\Wyatt\source\repos\DLCMayJune\DLCMayJune\bin\Debug\sq\DLCMayJune.resources.dll
+C:\Users\Wyatt\source\repos\DLCMayJune\DLCMayJune\obj\Debug\DLCMayJune.formAbout.sq.resources
+C:\Users\Wyatt\source\repos\DLCMayJune\DLCMayJune\obj\Debug\sq\DLCMayJune.resources.dll
